@@ -1,6 +1,6 @@
-<h1>
-  <img src="assets/title.svg" alt="纸间阅读器 Zhijian Reader" height="50">
-</h1>
+<div align="center">
+  <img src="assets/title.svg" alt="Zhijian Reader" height="48">
+</div>
 
 纸间阅读器（Zhijian Reader）是一款本地优先的离线电子书 Web 应用。
 
