@@ -60,7 +60,7 @@ python3 -m http.server 8000
 - 内置 [JSZip](https://stuk.github.io/jszip/) v3.10.1，用于 ZIP 解压，依据 MIT 协议使用。
 
 ## License
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-%23829a91.svg)](https://opensource.org/licenses/MIT)
 
 ## 反馈
 Bug 反馈与功能建议，请提交 [GitHub Issues](https://github.com/LC-0001/zhijian-reader/issues)。
